@@ -2,6 +2,7 @@ body{
     color:white;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 
 ul {
@@ -10,4 +11,8 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 16px;
+}
+a {
+color:white;
+text-decoration: none;
 }
