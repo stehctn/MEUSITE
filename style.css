@@ -21,7 +21,7 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(173, 66, 102);
+    border: 5px solid rgb(209, 115, 146);
 }
 
 .center{
@@ -29,5 +29,5 @@ img {
 }
 
 h1{
-    color:rgb(177, 71, 106);
+    color:rgb(231, 216, 221);
 }
